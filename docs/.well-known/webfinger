@@ -1,6 +1,5 @@
 {
 	"subject": "acct:simon@activitypub.webish.dev",
-
 	"links": [
 		{
 			"rel": "self",
