@@ -1,0 +1,11 @@
+{
+	"subject": "acct:simon@activitypub.webish.dev",
+
+	"links": [
+		{
+			"rel": "self",
+			"type": "application/activity+json",
+			"href": "https://activitypub.webish.dev/actor-simon.json"
+		}
+	]
+}
