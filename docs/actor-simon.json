@@ -3,12 +3,10 @@
     "https://www.w3.org/ns/activitystreams",
     "https://w3id.org/security/v1"
   ],
-
   "id": "https://activitypub.webish.dev/actor-simon.json",
   "type": "Person",
   "preferredUsername": "simon",
   "inbox": "https://activitypub.webish.dev/inbox",
-
   "publicKey": {
     "id": "https://activitypub.webish.dev/actor-simon.json#main-key",
     "owner": "https://activitypub.webish.dev/actor-simon.json",
