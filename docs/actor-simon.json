@@ -1,0 +1,17 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ],
+
+  "id": "https://activitypub.webish.dev/actor-simon.json",
+  "type": "Person",
+  "preferredUsername": "simon",
+  "inbox": "https://activitypub.webish.dev/inbox",
+
+  "publicKey": {
+    "id": "https://activitypub.webish.dev/actor-simon.json#main-key",
+    "owner": "https://activitypub.webish.dev/actor-simon.json",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1KLsjkK+EZk7YGqxkxE8\nCIyWmVzJVd8mRynLNYX5659uDLYqIQWesFWYNB70yfvqXUSYvTbFzwzEkUCErUJf\njOCeQr+qk+lUIHvMgmZ1QREeF5a9EUtKP/MLs4Qz96B14JpcevUS7ommgN2ar1Jt\nP7TsdxHrJYuyiJpQmsAqGuiOHpJELh5i3T/ztM1HvmPqTgfvbEuCM11ZKUL/L7ns\n6H1/dufq0jDwBIAIQbEIQyKCoEh9KOFi8jzdA3Xa7q1SIKG0Eb4ICu6RuB/aKz8l\nkKXBmFJ1ngCAwTh+TrL8C4C/PGlmZ71uGtg+/h7f9MfDDGfBKU/69GLiLD/bKxRD\nzQIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}
