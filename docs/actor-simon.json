@@ -12,5 +12,10 @@
     "id": "https://activitypub.webish.dev/actor-simon.json#main-key",
     "owner": "https://activitypub.webish.dev/actor-simon.json",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDZVwhh/6kdcyZ2GGUeQynsvJK9\nQm+peLoSH5g3iEoSVZ5M4NtVCFsi2xR9VtMDHbXUXjGYpMRhDMauuK+EAbH6oyS5\nelIOszU7pQXsO7VddgeA3Qo8bvTmKfSJvQz6WjuR15QzuZcLSQkIbhZdIMVL+trd\nPKGIe6jnl9Xqn19NVQIDAQAB\n-----END PUBLIC KEY-----"
+  },
+  "icon": {
+    "type": "Image",
+    "mediaType": "image/png",
+    "url": "https://avatars.githubusercontent.com/u/105858598?s=200&v=4"
   }
 }
