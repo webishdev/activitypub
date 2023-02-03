@@ -1,0 +1,48 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/activitystreams"
+  ],
+  "id": "https://activitypub.webish.dev/outbox-first.json",
+  "type": "OrderedCollectionPage",
+  "partOf": "https://activitypub.webish.dev/outbox.json",
+  "orderedItems": [
+    {
+      "id": "https://activitypub.webish.dev/actor-simon.json/statuses/109791975816951978/activity",
+      "type": "Create",
+      "actor": "https://activitypub.webish.dev/actor-simon.json",
+      "published": "2023-02-01T23:03:19Z",
+      "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+      ],
+      "cc": [
+        "https://activitypub.webish.dev/actor-simon.json/followers"
+      ],
+      "object": {
+        "id": "https://activitypub.webish.dev/actor-simon.json/statuses/109791975816951978",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2023-02-01T23:03:19Z",
+        "url": "https://activitypub.webish.dev/actor-simon.json/109791975816951978",
+        "attributedTo": "https://activitypub.webish.dev/actor-simon.json",
+        "to": [
+          "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "cc": [
+          "https://activitypub.webish.dev/actor-simon.json/followers"
+        ],
+        "sensitive": false,
+        "atomUri": "https://activitypub.webish.dev/actor-simon.json/statuses/109791975816951978",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:activitypub.webish.dev,2023-02-01:objectId=22182963:objectType=Conversation",
+        "content": "<p>Some foo magic!</p>",
+        "contentMap": {
+          "de": "<p>Some foo magic!</p>"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": null
+      }
+    }
+  ]
+}
