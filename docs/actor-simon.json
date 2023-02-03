@@ -10,6 +10,6 @@
   "publicKey": {
     "id": "https://activitypub.webish.dev/actor-simon.json#main-key",
     "owner": "https://activitypub.webish.dev/actor-simon.json",
-    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1KLsjkK+EZk7YGqxkxE8\nCIyWmVzJVd8mRynLNYX5659uDLYqIQWesFWYNB70yfvqXUSYvTbFzwzEkUCErUJf\njOCeQr+qk+lUIHvMgmZ1QREeF5a9EUtKP/MLs4Qz96B14JpcevUS7ommgN2ar1Jt\nP7TsdxHrJYuyiJpQmsAqGuiOHpJELh5i3T/ztM1HvmPqTgfvbEuCM11ZKUL/L7ns\n6H1/dufq0jDwBIAIQbEIQyKCoEh9KOFi8jzdA3Xa7q1SIKG0Eb4ICu6RuB/aKz8l\nkKXBmFJ1ngCAwTh+TrL8C4C/PGlmZ71uGtg+/h7f9MfDDGfBKU/69GLiLD/bKxRD\nzQIDAQAB\n-----END PUBLIC KEY-----\n"
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwtslsrhFnZn5g0u7kXcz\\no127x6j5E1ugQGddL0CJ0NbhPViVtViB9ODd4aLYZlleXk1M3uWECFEhStzmE49v\\npEzp2jcByLLf4q2qa48nNhAY+otRhdSMEv7f7/UuRLhk4kAf/eP69JFNK7/+sEZH\\na01NfYH9EXwHc6IdGFeTTNycU9eP2xVq89xL7B54zhD0pvhG+9qnRNDIgwyfQ5R6\\nohzXtBzceIEz22l2gH8iI+DXp4u/cdrriF5GbEUT68ocj7H8YkUIx4NTAnxOOwZm\\nePeKLraBmBzzPlQFn+NFvt0yG9gVqefC3jjnxms2f9ExoAQR7pN3FCsLJMQqB0TN\\n2QIDAQAB\\n----END PUBLIC KEY-----\\n"
   }
 }
