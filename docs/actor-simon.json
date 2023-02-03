@@ -7,6 +7,7 @@
   "type": "Person",
   "preferredUsername": "simon",
   "inbox": "https://activitypub.webish.dev/inbox",
+  "outbox": "https://activitypub.webish.dev/outbox.json",
   "publicKey": {
     "id": "https://activitypub.webish.dev/actor-simon.json#main-key",
     "owner": "https://activitypub.webish.dev/actor-simon.json",
